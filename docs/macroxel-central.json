@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "Macroxel FarmaControl",
+  "purpose": "linked-viewer",
+  "module": "espejo",
+  "centralBaseUrl": "https://macroxelarista-tech.github.io/ESPEJO-PUNTO-DE-VENTA-CENTRAL/",
+  "centralConfigUrl": "https://macroxelarista-tech.github.io/ESPEJO-PUNTO-DE-VENTA-CENTRAL/macroxel-config.json",
+  "centralManifestUrl": "https://macroxelarista-tech.github.io/ESPEJO-PUNTO-DE-VENTA-CENTRAL/macroxel-ecosistema.json",
+  "targetUrl": "https://macroxelarista-tech.github.io/ESPEJO-PUNTO-DE-VENTA-CENTRAL/",
+  "managedBy": "ESPEJO-PUNTO-DE-VENTA-CENTRAL"
+}
